@@ -1,6 +1,15 @@
+<img src="orgulhe-se.png">
+
 # api-eleicoes2020
 
+Introduzindo a construção de API’s (Application Programming Interface) 
+que são uma espécie de interface com os dados ou rotinas de outro sistema.
 
-#### Como rodar
-## source venv/bin/activate
-## python3 run.py
+O Flask é um framework que facilita a construção de APIs em Python,
+em sua essência procura manter uma estrutura simples mas extensível, 
+permitindo várias customizações a partir de outras bibliotecas.
+
+## Comandos:
+
+1. Ativando o ambiente virtual: `source venv/bin/activate`
+2. Rodando a API: `python3 run.py`
